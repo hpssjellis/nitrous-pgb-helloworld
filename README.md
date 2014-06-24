@@ -13,7 +13,7 @@ Starting Phoengapp Developer App for Nitrous.io
 1. click IDE if it does not auto take you there
 1. On left panel right click MY-REPO-NAME make a new folder call it www
 1. Drag all files into the www folder except nitrous.js
--1. Go to the terminal at bottom of the screen
+⋅⋅1. Go to the terminal at bottom of the screen
 1. npm install connect
 1. npm install connect-phonegap
 1. dir
