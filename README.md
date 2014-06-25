@@ -28,7 +28,7 @@ Starting Phoengapp Developer App for Nitrous.io
  
 1. Click preview. Then record the URL to enter into the Phonegap Developer App.
   1. Load your mobile free Phonegap Developer App
-  1. Enter the URL fromthe nitrous preview web page
+  1. Enter the URL from the nitrous preview web page
 
 1. Optional to save changes to your github repository- First connect to a github repo
  1. git init
