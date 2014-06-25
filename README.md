@@ -10,6 +10,9 @@ Try using this auto setup button called a hack
 
 
 
+Or do things the long way and follow the steps below: Note: the HACK only does the first section you must still install connect and connect-phonegap
+
+
 1. Login http://www.nitrous.io
  1. New Box (only one free box so terminate any old boxes)
  1. Select Node, give your project a name such as MY-BOX-NAME
