@@ -10,7 +10,6 @@ Starting Phoengapp Developer App for Nitrous.io
  1. New Box (only one free box so terminate any old boxes)
  1. Select Node, give your project a name such as MY-BOX-NAME
  1. Start with a github repo such as https://github.com/hpssjellis/nitrous-pgb-helloworld.git
- 
 1. click IDE if it does not auto take you there 
  1. Go to the terminal at bottom of the screen
  1. npm install connect
