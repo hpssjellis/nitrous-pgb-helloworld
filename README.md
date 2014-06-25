@@ -31,6 +31,8 @@ Starting Phoengapp Developer App for Nitrous.io
   1. Enter the URL from the nitrous preview web page
 
 1. Optional to save changes to your github repository- First connect to a github repo
+ 1. Go back to your box and activate public key (click on power icon 50/250 to authorize with github)
+ 1. go to the terminal
  1. git init
  1. git remote add origin https://github.com/hpssjellis/nitrous-pgb-helloworld.git
  1. git remote -v
