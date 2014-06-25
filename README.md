@@ -7,7 +7,7 @@ Try using this auto setup button called a hack
 
 
 
-[![Hack hpssjellis/nitrous-pgb-helloworld on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=hpssjellis%2Fnitrous-pgb-helloworld&file_to_open=https%3A%2F%2Fgithub.com%2Fhpssjellis%2Fnitrous-pgb-helloworld%2Fblob%2Fmaster%2Fwww%2Findex.html)
+[![Auto-Setup hpssjellis/nitrous-pgb-helloworld on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=hpssjellis%2Fnitrous-pgb-helloworld&file_to_open=https%3A%2F%2Fgithub.com%2Fhpssjellis%2Fnitrous-pgb-helloworld%2Fblob%2Fmaster%2Fwww%2Findex.html)
 
 
 
